@@ -1,1 +1,1 @@
-# cs266project
+# CS266 Project
